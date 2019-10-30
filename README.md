@@ -7,7 +7,7 @@
 2.1.1   Setjið upp tr tagg til þess að búa til röð
 2.1.1.1 Setjið upp tómt th tagg til þess að búa til dálk sem er heading
 2.1.1.2 Setjið upp th tagg utan um strenginn "Home starter hosting". Inní th taggið á að setja scope sem col
-2.1.1.3 Setjið upp th tagg utan um strenginn "Premium business hosting". Inní th taggið á að setja scope sem col
+2.1.1.3# Setjið upp th tagg utan um strenginn "Premium business hosting". Inní th taggið á að setja scope sem col
 
 2.2     Setjið upp tbody tagg
 2.2.1   Setjið upp tr tagg til þess að búa til röð
